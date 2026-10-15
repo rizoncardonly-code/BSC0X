@@ -1,0 +1,6 @@
+python-telegram-bot>=20.0
+binance-sdk-pay
+binance-common
+firebase-admin
+python-dotenv
+aiohttp
